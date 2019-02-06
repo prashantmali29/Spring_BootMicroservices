@@ -1,0 +1,5 @@
+package com.itemsharing.itemservice.serviceimpl;
+
+public class ItemServiceImpl {
+
+}

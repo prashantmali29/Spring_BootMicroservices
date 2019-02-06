@@ -1,0 +1,5 @@
+package com.itemsharing.itemservice.service;
+
+public interface ItemService {
+
+}

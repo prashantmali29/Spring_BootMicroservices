@@ -1,0 +1,53 @@
+package com.itemsharing.itemservice;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+import org.springframework.cloud.openfeign.EnableFeignClients;
+
+import com.itemsharing.itemservice.model.Item;
+import com.itemsharing.itemservice.model.User;
+import com.itemsharing.itemservice.service.ItemService;
+import com.itemsharing.itemservice.service.UserService;
+
+@SpringBootApplication
+@EnableEurekaClient
+@EnableFeignClients
+public class ItemServiceApplication implements CommandLineRunner {
+	
+	@Autowired
+	ItemService itemService;
+	
+	@Autowired
+	UserService userService;
+
+	public static void main(String[] args) {
+		SpringApplication.run(ItemServiceApplication.class, args);
+
+	}
+
+	@Override
+	public void run(String... args) throws Exception {
+	
+		User user = userService.getUserByName("Prashant2191");
+		
+		Item item1 = new Item();
+		item1.setName("test1");
+		item1.setItemCondition("active");
+		item1.setDescription("This is description for item1");
+		item1.setUser(user);
+		
+		itemService.addItemByUser(item1, "Prashant2191");
+		
+		Item item2 = new Item();
+		item2.setName("test2");
+		item2.setItemCondition("active");
+		item2.setDescription("This is description for item2");
+		item2.setUser(user);
+		
+		itemService.addItemByUser(item2, "Prashant2191");
+	}
+
+}

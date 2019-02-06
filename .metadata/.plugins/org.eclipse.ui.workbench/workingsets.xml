@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1538498750448_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=spring-microservices/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=spring-microservices/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1538498750486_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=spring-microservices/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1545512112705_4" label="itemsharing" name="itemsharing">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/itemsharing.itemservice" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/itemsharing.eurekaserver" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/itemsharing.configserver" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/itemsharing.userservice" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1538498766487_2" label="Window Working Set" name="Aggregate for window 1538498766486"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1545511901790_3" label="Window Working Set" name="Aggregate for window 1545511901790"/>
+<mruList name="itemsharing"/>
+</workingSetManager>

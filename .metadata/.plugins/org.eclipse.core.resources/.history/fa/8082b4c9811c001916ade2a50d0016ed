@@ -1,0 +1,52 @@
+package com.itemsharing.itemservice.serviceimpl;
+
+import java.io.IOException;
+import java.util.List;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import com.itemsharing.itemservice.model.Item;
+import com.itemsharing.itemservice.service.ItemService;
+
+public class ItemServiceImpl implements ItemService {
+	
+	public static final Logger logger =  LoggerFactory.getLogger(ItemServiceImpl.class);
+
+	@Override
+	public Item addItemByUser(Item item, String username) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Item> getAllItems() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Item> getItemsByUsername() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Item getItemById(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Item updateItem(Item item) throws IOException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteItemById(Long id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

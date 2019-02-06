@@ -1,0 +1,74 @@
+package com.itemsharing.itemservice.serviceimpl;
+
+import java.io.IOException;
+import java.util.Date;
+import java.util.List;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.itemsharing.itemservice.model.Item;
+import com.itemsharing.itemservice.model.User;
+import com.itemsharing.itemservice.repository.ItemRepository;
+import com.itemsharing.itemservice.service.ItemService;
+import com.itemsharing.itemservice.service.UserService;
+
+public class ItemServiceImpl implements ItemService {
+	
+	public static final Logger logger =  LoggerFactory.getLogger(ItemServiceImpl.class);
+
+	@Autowired
+	ItemRepository itemrepository;
+	
+	@Autowired
+	UserService userservice;
+	
+	@Override
+	public Item addItemByUser(Item item, String username) {
+		Item itemDetails  = itemrepository.findByName(item.getName());
+		if(itemDetails != null) {
+			logger.info("Item with this name already exist");
+			return null;
+		}else {
+			Date date = new Date();
+			item.setAddDate(date);
+			User user = userservice.getUserByName(username);
+			item.setUser(user);
+			Item newItem = itemrepository.save(item);
+			return newItem;
+			
+		}
+	}
+
+	@Override
+	public List<Item> getAllItems() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Item> getItemsByUsername() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Item getItemById(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Item updateItem(Item item) throws IOException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteItemById(Long id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

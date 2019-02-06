@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: itemservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: prashantdada
+Implementation-Vendor-Id: com.itemsharing.itemservice
+Build-Jdk: 1.8.0_102
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/itemsharing/itemsharing.itemservice
+Created-By: Maven Integration for Eclipse
+

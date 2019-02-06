@@ -1,0 +1,1761 @@
+!SESSION 2019-01-27 19:47:28.398 -----------------------------------------------
+eclipse.buildId=4.0.0.201809220817-RELEASE
+java.version=1.8.0_102
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+This is a continuation of log file E:\SpringBootMicroservicesUdmey\.metadata\.bak_0.log
+Created Time: 2019-01-27 20:09:06.085
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:06.100
+!MESSAGE Preparing classpath changed notification itemsharing.userservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:06.131
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:06.178
+!MESSAGE classpath=184 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:06.214
+!MESSAGE executing callback sts4.classpath.arrALEqU itemsharing.userservice false 184
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:06.871
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.userservice[*]: {CHILDREN | RESOLVED CLASSPATH CHANGED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-config-client\1.2.3.RELEASE\spring-cloud-config-client-1.2.3.RELEASE.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-eureka\1.2.7.RELEASE\spring-cloud-starter-eureka-1.2.7.RELEASE.jar[*]: {SOURCE ATTACHED}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:06.918
+!MESSAGE executing callback sts4.classpath.arrALEqU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:06.934
+!MESSAGE Preparing classpath changed notification itemsharing.userservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:06.934
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:06.980
+!MESSAGE classpath=184 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:06.980
+!MESSAGE executing callback sts4.classpath.arrALEqU itemsharing.userservice false 184
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:07.027
+!MESSAGE executing callback sts4.classpath.arrALEqU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:08.043
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+	itemsharing.userservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.userservice/src)[*]
+		ResourceDelta(/itemsharing.userservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:09:15.449
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.userservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.userservice[*]: {CHILDREN}
+				[Working copy] UserServiceApplication.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:13:22.238
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+	itemsharing.userservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.userservice/pom.xml)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:14:16.152
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.userservice[*]: {CHILDREN | CONTENT | RESOLVED CLASSPATH CHANGED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-security\1.1.4.RELEASE\spring-cloud-security-1.1.4.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-test\2.1.1.RELEASE\spring-boot-starter-test-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-test\2.1.1.RELEASE\spring-boot-test-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-test-autoconfigure\2.1.1.RELEASE\spring-boot-test-autoconfigure-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\jayway\jsonpath\json-path\2.4.0\json-path-2.4.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\minidev\json-smart\2.3\json-smart-2.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\minidev\accessors-smart\1.2\accessors-smart-1.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\junit\junit\4.12\junit-4.12.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\assertj\assertj-core\3.11.1\assertj-core-3.11.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\mockito\mockito-core\2.23.4\mockito-core-2.23.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\bytebuddy\byte-buddy-agent\1.9.5\byte-buddy-agent-1.9.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\objenesis\objenesis\2.6\objenesis-2.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\skyscreamer\jsonassert\1.5.0\jsonassert-1.5.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\vaadin\external\google\android-json\0.0.20131108.vaadin1\android-json-0.0.20131108.vaadin1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-test\5.1.3.RELEASE\spring-test-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\xmlunit\xmlunit-core\2.6.2\xmlunit-core-2.6.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-config-client\1.2.3.RELEASE\spring-cloud-config-client-1.2.3.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-commons\1.1.9.RELEASE\spring-cloud-commons-1.1.9.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-crypto\5.1.2.RELEASE\spring-security-crypto-5.1.2.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-context\1.1.9.RELEASE\spring-cloud-context-1.1.9.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.7\jackson-databind-2.9.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.7\jackson-core-2.9.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-eureka\1.2.7.RELEASE\spring-cloud-starter-eureka-1.2.7.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter\1.1.9.RELEASE\spring-cloud-starter-1.1.9.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-rsa\1.0.3.RELEASE\spring-security-rsa-1.0.3.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.55\bcpkix-jdk15on-1.55.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.55\bcprov-jdk15on-1.55.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-core\1.2.7.RELEASE\spring-cloud-netflix-core-1.2.7.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-eureka-client\1.2.7.RELEASE\spring-cloud-netflix-eureka-client-1.2.7.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-client\1.4.12\eureka-client-1.4.12.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jettison\jettison\1.3.7\jettison-1.3.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-eventbus\0.3.0\netflix-eventbus-0.3.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-infix\0.3.0\netflix-infix-0.3.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-jxpath\commons-jxpath\1.3\commons-jxpath-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\joda-time\joda-time\2.10.1\joda-time-2.10.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\antlr\antlr-runtime\3.4\antlr-runtime-3.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\antlr\stringtemplate\3.2.1\stringtemplate-3.2.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\commons\commons-math\2.2\commons-math-2.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\archaius\archaius-core\0.7.4\archaius-core-0.7.4.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\javax\ws\rs\jsr311-api\1.1.1\jsr311-api-1.1.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\servo\servo-core\0.10.1\servo-core-0.10.1.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\servo\servo-internal\0.10.1\servo-internal-0.10.1.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\jersey-core\1.19.1\jersey-core-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\jersey-client\1.19.1\jersey-client-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\contribs\jersey-apache-client4\1.19.1\jersey-apache-client4-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\httpcomponents\httpclient\4.5.6\httpclient-4.5.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\httpcomponents\httpcore\4.4.10\httpcore-4.4.10.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\inject\guice\4.0\guice-4.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\governator\governator-api\1.12.10\governator-api-1.12.10.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-core\1.4.12\eureka-core-1.4.12.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\governator\governator\1.12.10\governator-1.12.10.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\governator\governator-core\1.12.10\governator-core-1.12.10.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\google\inject\extensions\guice-multibindings\4.0\guice-multibindings-4.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\google\inject\extensions\guice-grapher\4.0\guice-grapher-4.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\google\inject\extensions\guice-assistedinject\4.0\guice-assistedinject-4.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\hibernate\hibernate-validator\4.1.0.Final\hibernate-validator-4.1.0.Final.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\ow2\asm\asm\5.0.4\asm-5.0.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\woodstox\woodstox-core-asl\4.4.1\woodstox-core-asl-4.4.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.4\stax2-api-3.1.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-archaius\1.2.7.RELEASE\spring-cloud-starter-archaius-1.2.7.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\commons-configuration\commons-configuration\1.8\commons-configuration-1.8.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\guava\guava\18.0\guava-18.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-ribbon\1.2.7.RELEASE\spring-cloud-starter-ribbon-1.2.7.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon\2.2.0\ribbon-2.2.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-transport\2.2.0\ribbon-transport-2.2.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty-contexts\0.4.9\rxnetty-contexts-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty-servo\0.4.9\rxnetty-servo-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-core\1.5.6\hystrix-core-1.5.6.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\hdrhistogram\HdrHistogram\2.1.9\HdrHistogram-2.1.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty\0.4.9\rxnetty-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-codec-http\4.1.31.Final\netty-codec-http-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-codec\4.1.31.Final\netty-codec-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport-native-epoll\4.1.31.Final\netty-transport-native-epoll-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-common\4.1.31.Final\netty-common-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-buffer\4.1.31.Final\netty-buffer-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.31.Final\netty-transport-native-unix-common-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport\4.1.31.Final\netty-transport-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-resolver\4.1.31.Final\netty-resolver-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-core\2.2.0\ribbon-core-2.2.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-httpclient\2.2.0\ribbon-httpclient-2.2.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-commons-util\0.1.1\netflix-commons-util-0.1.1.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-loadbalancer\2.2.0\ribbon-loadbalancer-2.2.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-statistics\0.1.1\netflix-statistics-0.1.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxjava\1.3.8\rxjava-1.3.8.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-eureka\2.2.0\ribbon-eureka-2.2.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\thoughtworks\xstream\xstream\1.4.9\xstream-1.4.9.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-security\2.0.0.RELEASE\spring-cloud-security-2.0.0.RELEASE.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\oauth\boot\spring-security-oauth2-autoconfigure\2.0.0.RELEASE\spring-security-oauth2-autoconfigure-2.0.0.RELEASE.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\oauth\spring-security-oauth2\2.2.1.RELEASE\spring-security-oauth2-2.2.1.RELEASE.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.9.13\jackson-mapper-asl-1.9.13.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.9.13\jackson-core-asl-1.9.13.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-jwt\1.0.9.RELEASE\spring-security-jwt-1.0.9.RELEASE.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.56\bcpkix-jdk15on-1.56.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.56\bcprov-jdk15on-1.56.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-config\2.0.0.RELEASE\spring-cloud-starter-config-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter\2.0.0.RELEASE\spring-cloud-starter-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-context\2.0.0.RELEASE\spring-cloud-context-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-commons\2.0.0.RELEASE\spring-cloud-commons-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-rsa\1.0.5.RELEASE\spring-security-rsa-1.0.5.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-config-client\2.0.0.RELEASE\spring-cloud-config-client-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-eureka-client\2.0.0.RELEASE\spring-cloud-starter-netflix-eureka-client-2.0.0.RELEASE.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-core\2.0.0.RELEASE\spring-cloud-netflix-core-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-eureka-client\2.0.0.RELEASE\spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-client\1.9.2\eureka-client-1.9.2.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\archaius\archaius-core\0.7.6\archaius-core-0.7.6.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\google\guava\guava\16.0\guava-16.0.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\servo\servo-core\0.12.21\servo-core-0.12.21.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\github\vlsi\compactmap\compactmap\1.2.1\compactmap-1.2.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\github\andrewoma\dexx\dexx-collections\0.2\dexx-collections-0.2.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-core\1.9.2\eureka-core-1.9.2.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-archaius\2.0.0.RELEASE\spring-cloud-starter-netflix-archaius-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-ribbon\2.0.0.RELEASE\spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-archaius\2.0.0.RELEASE\spring-cloud-netflix-archaius-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-ribbon\2.0.0.RELEASE\spring-cloud-starter-netflix-ribbon-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon\2.2.5\ribbon-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-transport\2.2.5\ribbon-transport-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-core\1.5.12\hystrix-core-1.5.12.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-core\2.2.5\ribbon-core-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-httpclient\2.2.5\ribbon-httpclient-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-commons-util\0.3.0\netflix-commons-util-0.3.0.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-loadbalancer\2.2.5\ribbon-loadbalancer-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-eureka\2.2.5\ribbon-eureka-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\thoughtworks\xstream\xstream\1.4.10\xstream-1.4.10.jar[*]: {ADDED TO CLASSPATH}
+		ResourceDelta(/itemsharing.userservice/target)[*]
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:14:16.184
+!MESSAGE Preparing classpath changed notification itemsharing.userservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:14:16.204
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:14:16.219
+!MESSAGE classpath=186 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:14:16.219
+!MESSAGE executing callback sts4.classpath.arrALEqU itemsharing.userservice false 186
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:14:16.313
+!MESSAGE executing callback sts4.classpath.arrALEqU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:14:17.623
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+	itemsharing.userservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.userservice/src)[*]
+		ResourceDelta(/itemsharing.userservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:15:38.373
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.userservice[*]: {CHILDREN | RESOLVED CLASSPATH CHANGED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-security\2.0.0.RELEASE\spring-cloud-security-2.0.0.RELEASE.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\oauth\boot\spring-security-oauth2-autoconfigure\2.0.0.RELEASE\spring-security-oauth2-autoconfigure-2.0.0.RELEASE.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\oauth\spring-security-oauth2\2.2.1.RELEASE\spring-security-oauth2-2.2.1.RELEASE.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.9.13\jackson-mapper-asl-1.9.13.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.9.13\jackson-core-asl-1.9.13.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-jwt\1.0.9.RELEASE\spring-security-jwt-1.0.9.RELEASE.jar[*]: {SOURCE ATTACHED}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:15:38.389
+!MESSAGE Preparing classpath changed notification itemsharing.userservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:15:38.405
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:15:38.436
+!MESSAGE classpath=186 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:15:38.436
+!MESSAGE executing callback sts4.classpath.arrALEqU itemsharing.userservice false 186
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:15:38.467
+!MESSAGE executing callback sts4.classpath.arrALEqU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:16:22.278
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+	itemsharing.userservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.userservice[*]: {CHILDREN}
+				[Working copy] UserServiceApplication.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/itemsharing.userservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:16:22.590
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+	itemsharing.userservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.userservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:20:02.530
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:20:05.732
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT | RESOLVED CLASSPATH CHANGED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.7\jackson-databind-2.9.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.7\jackson-core-2.9.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.9.7\jackson-datatype-jdk8-2.9.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.9.7\jackson-datatype-jsr310-2.9.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\module\jackson-module-parameter-names\2.9.7\jackson-module-parameter-names-2.9.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-tomcat\2.1.1.RELEASE\spring-boot-starter-tomcat-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\tomcat\embed\tomcat-embed-core\9.0.13\tomcat-embed-core-9.0.13.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\tomcat\embed\tomcat-embed-el\9.0.13\tomcat-embed-el-9.0.13.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\tomcat\embed\tomcat-embed-websocket\9.0.13\tomcat-embed-websocket-9.0.13.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hibernate\validator\hibernate-validator\6.0.13.Final\hibernate-validator-6.0.13.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\validation\validation-api\2.0.1.Final\validation-api-2.0.1.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\jboss\logging\jboss-logging\3.3.2.Final\jboss-logging-3.3.2.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\classmate\1.4.0\classmate-1.4.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-web\5.1.3.RELEASE\spring-web-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-beans\5.1.3.RELEASE\spring-beans-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-webmvc\5.1.3.RELEASE\spring-webmvc-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-aop\5.1.3.RELEASE\spring-aop-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-expression\5.1.3.RELEASE\spring-expression-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-data-jpa\2.1.1.RELEASE\spring-boot-starter-data-jpa-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-aop\2.1.1.RELEASE\spring-boot-starter-aop-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\aspectj\aspectjweaver\1.9.2\aspectjweaver-1.9.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-jdbc\2.1.1.RELEASE\spring-boot-starter-jdbc-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-jdbc\5.1.3.RELEASE\spring-jdbc-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\transaction\javax.transaction-api\1.3\javax.transaction-api-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hibernate\hibernate-core\5.3.7.Final\hibernate-core-5.3.7.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\persistence\javax.persistence-api\2.2\javax.persistence-api-2.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\javassist\javassist\3.23.1-GA\javassist-3.23.1-GA.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\bytebuddy\byte-buddy\1.9.5\byte-buddy-1.9.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\jboss\jandex\2.0.5.Final\jandex-2.0.5.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\dom4j\dom4j\2.1.1\dom4j-2.1.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hibernate\common\hibernate-commons-annotations\5.0.4.Final\hibernate-commons-annotations-5.0.4.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\data\spring-data-jpa\2.1.3.RELEASE\spring-data-jpa-2.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\data\spring-data-commons\2.1.3.RELEASE\spring-data-commons-2.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-orm\5.1.3.RELEASE\spring-orm-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-tx\5.1.3.RELEASE\spring-tx-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-aspects\5.1.3.RELEASE\spring-aspects-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\tomcat\tomcat-jdbc\9.0.13\tomcat-jdbc-9.0.13.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\tomcat\tomcat-juli\9.0.13\tomcat-juli-9.0.13.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\mysql\mysql-connector-java\5.1.38\mysql-connector-java-5.1.38.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-security\1.1.4.RELEASE\spring-cloud-security-1.1.4.RELEASE.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-security\2.1.1.RELEASE\spring-boot-starter-security-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-config\5.1.2.RELEASE\spring-security-config-5.1.2.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-core\5.1.2.RELEASE\spring-security-core-5.1.2.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-web\5.1.2.RELEASE\spring-security-web-5.1.2.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-test\2.1.1.RELEASE\spring-boot-starter-test-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-test\2.1.1.RELEASE\spring-boot-test-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-test-autoconfigure\2.1.1.RELEASE\spring-boot-test-autoconfigure-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\jayway\jsonpath\json-path\2.4.0\json-path-2.4.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\minidev\json-smart\2.3\json-smart-2.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\minidev\accessors-smart\1.2\accessors-smart-1.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\ow2\asm\asm\5.0.4\asm-5.0.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\junit\junit\4.12\junit-4.12.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\assertj\assertj-core\3.11.1\assertj-core-3.11.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\mockito\mockito-core\2.23.4\mockito-core-2.23.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\bytebuddy\byte-buddy-agent\1.9.5\byte-buddy-agent-1.9.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\objenesis\objenesis\2.6\objenesis-2.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\skyscreamer\jsonassert\1.5.0\jsonassert-1.5.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\vaadin\external\google\android-json\0.0.20131108.vaadin1\android-json-0.0.20131108.vaadin1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-test\5.1.3.RELEASE\spring-test-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\xmlunit\xmlunit-core\2.6.2\xmlunit-core-2.6.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-security\2.0.0.RELEASE\spring-cloud-security-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\oauth\boot\spring-security-oauth2-autoconfigure\2.0.0.RELEASE\spring-security-oauth2-autoconfigure-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\oauth\spring-security-oauth2\2.2.1.RELEASE\spring-security-oauth2-2.2.1.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.9.13\jackson-mapper-asl-1.9.13.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.9.13\jackson-core-asl-1.9.13.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-jwt\1.0.9.RELEASE\spring-security-jwt-1.0.9.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.56\bcpkix-jdk15on-1.56.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.56\bcprov-jdk15on-1.56.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-config\2.0.0.RELEASE\spring-cloud-starter-config-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter\2.0.0.RELEASE\spring-cloud-starter-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-context\2.0.0.RELEASE\spring-cloud-context-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-crypto\5.1.2.RELEASE\spring-security-crypto-5.1.2.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-commons\2.0.0.RELEASE\spring-cloud-commons-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-rsa\1.0.5.RELEASE\spring-security-rsa-1.0.5.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-config-client\2.0.0.RELEASE\spring-cloud-config-client-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-eureka-client\2.0.0.RELEASE\spring-cloud-starter-netflix-eureka-client-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-core\2.0.0.RELEASE\spring-cloud-netflix-core-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-eureka-client\2.0.0.RELEASE\spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-client\1.9.2\eureka-client-1.9.2.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jettison\jettison\1.3.7\jettison-1.3.7.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-eventbus\0.3.0\netflix-eventbus-0.3.0.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-infix\0.3.0\netflix-infix-0.3.0.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\commons-jxpath\commons-jxpath\1.3\commons-jxpath-1.3.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\joda-time\joda-time\2.10.1\joda-time-2.10.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\antlr\antlr-runtime\3.4\antlr-runtime-3.4.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\antlr\stringtemplate\3.2.1\stringtemplate-3.2.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\apache\commons\commons-math\2.2\commons-math-2.2.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\archaius\archaius-core\0.7.6\archaius-core-0.7.6.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\google\guava\guava\16.0\guava-16.0.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\javax\ws\rs\jsr311-api\1.1.1\jsr311-api-1.1.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\servo\servo-core\0.12.21\servo-core-0.12.21.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\jersey-core\1.19.1\jersey-core-1.19.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\jersey-client\1.19.1\jersey-client-1.19.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\contribs\jersey-apache-client4\1.19.1\jersey-apache-client4-1.19.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\apache\httpcomponents\httpclient\4.5.6\httpclient-4.5.6.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\apache\httpcomponents\httpcore\4.4.10\httpcore-4.4.10.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\github\vlsi\compactmap\compactmap\1.2.1\compactmap-1.2.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\github\andrewoma\dexx\dexx-collections\0.2\dexx-collections-0.2.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-core\1.9.2\eureka-core-1.9.2.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\woodstox\woodstox-core-asl\4.4.1\woodstox-core-asl-4.4.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.4\stax2-api-3.1.4.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-archaius\2.0.0.RELEASE\spring-cloud-starter-netflix-archaius-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-ribbon\2.0.0.RELEASE\spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-archaius\2.0.0.RELEASE\spring-cloud-netflix-archaius-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\commons-configuration\commons-configuration\1.8\commons-configuration-1.8.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-ribbon\2.0.0.RELEASE\spring-cloud-starter-netflix-ribbon-2.0.0.RELEASE.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon\2.2.5\ribbon-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-transport\2.2.5\ribbon-transport-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty-contexts\0.4.9\rxnetty-contexts-0.4.9.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty-servo\0.4.9\rxnetty-servo-0.4.9.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-core\1.5.12\hystrix-core-1.5.12.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\org\hdrhistogram\HdrHistogram\2.1.9\HdrHistogram-2.1.9.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty\0.4.9\rxnetty-0.4.9.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-codec-http\4.1.31.Final\netty-codec-http-4.1.31.Final.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-codec\4.1.31.Final\netty-codec-4.1.31.Final.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport-native-epoll\4.1.31.Final\netty-transport-native-epoll-4.1.31.Final.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-common\4.1.31.Final\netty-common-4.1.31.Final.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-buffer\4.1.31.Final\netty-buffer-4.1.31.Final.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.31.Final\netty-transport-native-unix-common-4.1.31.Final.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport\4.1.31.Final\netty-transport-4.1.31.Final.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-resolver\4.1.31.Final\netty-resolver-4.1.31.Final.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-core\2.2.5\ribbon-core-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-httpclient\2.2.5\ribbon-httpclient-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-commons-util\0.3.0\netflix-commons-util-0.3.0.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-loadbalancer\2.2.5\ribbon-loadbalancer-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-statistics\0.1.1\netflix-statistics-0.1.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxjava\1.3.8\rxjava-1.3.8.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-eureka\2.2.5\ribbon-eureka-2.2.5.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\thoughtworks\xstream\xstream\1.4.10\xstream-1.4.10.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar[*]: {ADDED TO CLASSPATH}
+		ResourceDelta(/itemsharing.itemservice/target)[*]
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:20:05.748
+!MESSAGE Preparing classpath changed notification itemsharing.itemservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:20:05.842
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:20:05.873
+!MESSAGE classpath=186 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:20:05.889
+!MESSAGE executing callback sts4.classpath.arrALEqU itemsharing.itemservice false 186
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:20:05.904
+!MESSAGE executing callback sts4.classpath.arrALEqU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:20:08.699
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:20:19.982
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice[*]: {CHILDREN}
+				[Working copy] ItemServiceApplication.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:20:32.967
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice[*]: {CHILDREN}
+				[Working copy] ItemServiceApplication.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/itemsharing.itemservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:20:33.327
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:29:40.686
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/resources[*]: {CONTENT}
+			ResourceDelta(/itemsharing.itemservice/src/main/resources/bootstrap.yml)[+]
+		ResourceDelta(/itemsharing.itemservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:29:41.052
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:41:19.793
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/resources[*]: {CONTENT}
+			ResourceDelta(/itemsharing.itemservice/src/main/resources/bootstrap.yml)[*]
+		ResourceDelta(/itemsharing.itemservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:41:21.512
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+	itemsharing.userservice[*]: {CHILDREN | CONTENT}
+		src/main/resources[*]: {CONTENT}
+			ResourceDelta(/itemsharing.userservice/src/main/resources/bootstrap.yml)[+]
+		ResourceDelta(/itemsharing.userservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:41:22.549
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]
+	itemsharing.userservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.userservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:41:35.762
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+	itemsharing.userservice[*]: {CHILDREN | CONTENT}
+		src/main/resources[*]: {CONTENT}
+			ResourceDelta(/itemsharing.userservice/src/main/resources/bootstrap.yml)[*]
+		ResourceDelta(/itemsharing.userservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-27 20:41:35.887
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+	itemsharing.userservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.userservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:51:03.551
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:51:17.858
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.userservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.userservice[*]: {CHILDREN}
+				UserServiceApplication.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:51:18.158
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice[*]: {CHILDREN}
+				ItemServiceApplication.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:51:19.107
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.eurekaserver[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.eurekaserver[*]: {CHILDREN}
+				EurekaServerApplication.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:52:08.434
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:53:48.772
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:53:55.553
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:54:53.008
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/.classpath)[*]
+		ResourceDelta(/itemsharing.itemservice/.project)[*]
+		ResourceDelta(/itemsharing.itemservice/.settings)[*]
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:54:58.077
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN | CONTENT}
+			com[*]: {CONTENT}
+			com.itemsharing[*]: {CONTENT}
+			com.itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+				ItemServiceApplication.java[*]: {CONTENT | PRIMARY RESOURCE}
+				SecurityConfiguration.java[*]: {CONTENT | PRIMARY RESOURCE}
+			com.itemsharing.itemservice.controller[*]: {CHILDREN | CONTENT}
+				ItemController.java[*]: {CONTENT | PRIMARY RESOURCE}
+			com.itemsharing.itemservice.model[*]: {CHILDREN | CONTENT}
+				Authority.java[*]: {CONTENT | PRIMARY RESOURCE}
+				Item.java[*]: {CONTENT | PRIMARY RESOURCE}
+				Role.java[*]: {CONTENT | PRIMARY RESOURCE}
+				User.java[*]: {CONTENT | PRIMARY RESOURCE}
+				UserRole.java[*]: {CONTENT | PRIMARY RESOURCE}
+			com.itemsharing.itemservice.repository[*]: {CHILDREN | CONTENT}
+				ItemRepository.java[*]: {CONTENT | PRIMARY RESOURCE}
+				UserRepository.java[*]: {CONTENT | PRIMARY RESOURCE}
+			com.itemsharing.itemservice.service[*]: {CHILDREN | CONTENT}
+				ItemService.java[*]: {CONTENT | PRIMARY RESOURCE}
+				UserService.java[*]: {CONTENT | PRIMARY RESOURCE}
+			com.itemsharing.itemservice.serviceimpl[*]: {CHILDREN | CONTENT}
+				ItemServiceImpl.java[*]: {CONTENT | PRIMARY RESOURCE}
+				UserServiceImpl.java[*]: {CONTENT | PRIMARY RESOURCE}
+		src/main/resources[*]: {CONTENT}
+			ResourceDelta(/itemsharing.itemservice/src/main/resources/application.yml)[*]
+			ResourceDelta(/itemsharing.itemservice/src/main/resources/bootstrap.yml)[*]
+		src/test/java[*]: {CONTENT}
+		src/test/resources[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:54:58.290
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:55:02.417
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:55:03.941
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:55:08.069
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:56:18.279
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.configserver)[*]
+		ResourceDelta(/itemsharing/itemsharing.eurekaserver)[*]
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+		ResourceDelta(/itemsharing/target)[*]
+	itemsharing.configserver[*]: {CONTENT}
+		ResourceDelta(/itemsharing.configserver/target)[*]
+	itemsharing.eurekaserver[*]: {CONTENT}
+		ResourceDelta(/itemsharing.eurekaserver/target)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]
+	itemsharing.userservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.userservice/src)[*]
+		ResourceDelta(/itemsharing.userservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:56:19.943
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.configserver)[*]
+		ResourceDelta(/itemsharing/itemsharing.eurekaserver)[*]
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+		ResourceDelta(/itemsharing/target)[*]
+	itemsharing.configserver[*]: {CONTENT}
+		ResourceDelta(/itemsharing.configserver/target)[*]
+	itemsharing.eurekaserver[*]: {CONTENT}
+		ResourceDelta(/itemsharing.eurekaserver/target)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]
+	itemsharing.userservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.userservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:56:20.345
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.userservice)[*]
+	itemsharing.userservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.userservice/src)[*]
+		ResourceDelta(/itemsharing.userservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:56:50.766
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:57:09.723
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:57:14.252
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:57:35.912
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:57:37.142
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:40.469
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice[*]: {CHILDREN}
+				[Working copy] ItemServiceApplication.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-01-30 22:58:50.044
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:168)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo(SpringBootJavaHoverProvider.java:35)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:173)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.782
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BEfyaCWg
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.805
+!MESSAGE subscribing to classpath changes: sts4.classpath.BEfyaCWg
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.815
+!MESSAGE subsribers = [sts4.classpath.BEfyaCWg, sts4.classpath.arrALEqU]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.824
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.831
+!MESSAGE project itemsharing.itemservice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.838
+!MESSAGE Preparing classpath changed notification itemsharing.itemservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.844
+!MESSAGE project itemsharing ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.850
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.856
+!MESSAGE project itemsharing.configserver ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.867
+!MESSAGE project itemsharing.eurekaserver ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.873
+!MESSAGE project itemsharing.userservice ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.881
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.887
+!MESSAGE classpath=186 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.893
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BEfyaCWg => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:50.900
+!MESSAGE executing callback sts4.classpath.BEfyaCWg itemsharing.itemservice false 186
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:52.913
+!MESSAGE executing callback sts4.classpath.BEfyaCWg FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-01-30 22:58:52.920
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:52.927
+!MESSAGE Preparing classpath changed notification itemsharing.userservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:52.937
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:52.956
+!MESSAGE classpath=186 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:52.963
+!MESSAGE executing callback sts4.classpath.BEfyaCWg itemsharing.userservice false 186
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:54.555
+!MESSAGE executing callback sts4.classpath.BEfyaCWg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:54.587
+!MESSAGE Preparing classpath changed notification itemsharing.eurekaserver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:54.600
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:54.625
+!MESSAGE classpath=171 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:54.632
+!MESSAGE executing callback sts4.classpath.BEfyaCWg itemsharing.eurekaserver false 171
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:56.642
+!MESSAGE executing callback sts4.classpath.BEfyaCWg FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-01-30 22:58:56.675
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:56.685
+!MESSAGE Preparing classpath changed notification itemsharing.configserver
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:56.695
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:56.862
+!MESSAGE classpath=103 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:56.878
+!MESSAGE executing callback sts4.classpath.BEfyaCWg itemsharing.configserver false 103
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:58.889
+!MESSAGE executing callback sts4.classpath.BEfyaCWg FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-01-30 22:58:58.896
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:58.906
+!MESSAGE Preparing classpath changed notification itemsharing
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:58.925
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:58.939
+!MESSAGE classpath=60 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:58:58.946
+!MESSAGE executing callback sts4.classpath.BEfyaCWg itemsharing false 60
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 22:59:00.955
+!MESSAGE executing callback sts4.classpath.BEfyaCWg FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-01-30 22:59:00.962
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:03:41.280
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:06:16.798
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT | RESOLVED CLASSPATH CHANGED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-crypto\5.1.2.RELEASE\spring-security-crypto-5.1.2.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-commons\2.0.0.RELEASE\spring-cloud-commons-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-rsa\1.0.5.RELEASE\spring-security-rsa-1.0.5.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-config-client\2.0.0.RELEASE\spring-cloud-config-client-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.7\jackson-databind-2.9.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.7\jackson-core-2.9.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-eureka-client\2.0.0.RELEASE\spring-cloud-starter-netflix-eureka-client-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-core\2.0.0.RELEASE\spring-cloud-netflix-core-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-eureka-client\2.0.0.RELEASE\spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-client\1.9.2\eureka-client-1.9.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jettison\jettison\1.3.7\jettison-1.3.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-eventbus\0.3.0\netflix-eventbus-0.3.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-infix\0.3.0\netflix-infix-0.3.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-jxpath\commons-jxpath\1.3\commons-jxpath-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\joda-time\joda-time\2.10.1\joda-time-2.10.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\antlr\antlr-runtime\3.4\antlr-runtime-3.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\antlr\stringtemplate\3.2.1\stringtemplate-3.2.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\commons\commons-math\2.2\commons-math-2.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\archaius\archaius-core\0.7.6\archaius-core-0.7.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\guava\guava\16.0\guava-16.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\ws\rs\jsr311-api\1.1.1\jsr311-api-1.1.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\servo\servo-core\0.12.21\servo-core-0.12.21.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\jersey-core\1.19.1\jersey-core-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\jersey-client\1.19.1\jersey-client-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\contribs\jersey-apache-client4\1.19.1\jersey-apache-client4-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\httpcomponents\httpclient\4.5.6\httpclient-4.5.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\httpcomponents\httpcore\4.4.10\httpcore-4.4.10.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\github\vlsi\compactmap\compactmap\1.2.1\compactmap-1.2.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\github\andrewoma\dexx\dexx-collections\0.2\dexx-collections-0.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-core\1.9.2\eureka-core-1.9.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\woodstox\woodstox-core-asl\4.4.1\woodstox-core-asl-4.4.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.4\stax2-api-3.1.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-archaius\2.0.0.RELEASE\spring-cloud-starter-netflix-archaius-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-ribbon\2.0.0.RELEASE\spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-archaius\2.0.0.RELEASE\spring-cloud-netflix-archaius-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-configuration\commons-configuration\1.8\commons-configuration-1.8.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-ribbon\2.0.0.RELEASE\spring-cloud-starter-netflix-ribbon-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon\2.2.5\ribbon-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-transport\2.2.5\ribbon-transport-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty-contexts\0.4.9\rxnetty-contexts-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty-servo\0.4.9\rxnetty-servo-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-core\1.5.12\hystrix-core-1.5.12.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hdrhistogram\HdrHistogram\2.1.9\HdrHistogram-2.1.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty\0.4.9\rxnetty-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-codec-http\4.1.31.Final\netty-codec-http-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-codec\4.1.31.Final\netty-codec-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport-native-epoll\4.1.31.Final\netty-transport-native-epoll-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-common\4.1.31.Final\netty-common-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-buffer\4.1.31.Final\netty-buffer-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.31.Final\netty-transport-native-unix-common-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport\4.1.31.Final\netty-transport-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-resolver\4.1.31.Final\netty-resolver-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-core\2.2.5\ribbon-core-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-httpclient\2.2.5\ribbon-httpclient-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-commons-util\0.3.0\netflix-commons-util-0.3.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-loadbalancer\2.2.5\ribbon-loadbalancer-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-statistics\0.1.1\netflix-statistics-0.1.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxjava\1.3.8\rxjava-1.3.8.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-eureka\2.2.5\ribbon-eureka-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\thoughtworks\xstream\xstream\1.4.10\xstream-1.4.10.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-test\2.1.1.RELEASE\spring-boot-starter-test-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-test\2.1.1.RELEASE\spring-boot-test-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-test-autoconfigure\2.1.1.RELEASE\spring-boot-test-autoconfigure-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\jayway\jsonpath\json-path\2.4.0\json-path-2.4.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\minidev\json-smart\2.3\json-smart-2.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\minidev\accessors-smart\1.2\accessors-smart-1.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\ow2\asm\asm\5.0.4\asm-5.0.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\junit\junit\4.12\junit-4.12.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\assertj\assertj-core\3.11.1\assertj-core-3.11.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\mockito\mockito-core\2.23.4\mockito-core-2.23.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\bytebuddy\byte-buddy-agent\1.9.5\byte-buddy-agent-1.9.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\objenesis\objenesis\2.6\objenesis-2.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\skyscreamer\jsonassert\1.5.0\jsonassert-1.5.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\vaadin\external\google\android-json\0.0.20131108.vaadin1\android-json-0.0.20131108.vaadin1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-test\5.1.3.RELEASE\spring-test-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\xmlunit\xmlunit-core\2.6.2\xmlunit-core-2.6.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-openfeign\2.0.0.RELEASE\spring-cloud-starter-openfeign-2.0.0.RELEASE.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-openfeign-core\2.0.0.RELEASE\spring-cloud-openfeign-core-2.0.0.RELEASE.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-core\9.5.1\feign-core-9.5.1.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-slf4j\9.5.1\feign-slf4j-9.5.1.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-hystrix\9.5.1\feign-hystrix-9.5.1.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar[*]: {ADDED TO CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-java8\9.5.1\feign-java8-9.5.1.jar[+]: {}
+		ResourceDelta(/itemsharing.itemservice/target)[*]
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:06:16.868
+!MESSAGE Preparing classpath changed notification itemsharing.itemservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:06:16.888
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:06:16.918
+!MESSAGE classpath=193 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:06:16.928
+!MESSAGE executing callback sts4.classpath.BEfyaCWg itemsharing.itemservice false 193
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:06:16.978
+!MESSAGE executing callback sts4.classpath.BEfyaCWg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:06:16.988
+!MESSAGE executing callback sts4.classpath.arrALEqU itemsharing.itemservice false 193
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:06:16.988
+!MESSAGE executing callback sts4.classpath.arrALEqU FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-01-30 23:06:16.998
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.arrALEqU'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:06:18.699
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:07:26.713
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN | RESOLVED CLASSPATH CHANGED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-openfeign\2.0.0.RELEASE\spring-cloud-starter-openfeign-2.0.0.RELEASE.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-openfeign-core\2.0.0.RELEASE\spring-cloud-openfeign-core-2.0.0.RELEASE.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-core\9.5.1\feign-core-9.5.1.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-slf4j\9.5.1\feign-slf4j-9.5.1.jar[*]: {CONTENT | ARCHIVE CONTENT CHANGED | SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-hystrix\9.5.1\feign-hystrix-9.5.1.jar[*]: {CONTENT | ARCHIVE CONTENT CHANGED | SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-java8\9.5.1\feign-java8-9.5.1.jar[*]: {CONTENT | ARCHIVE CONTENT CHANGED | SOURCE ATTACHED}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:07:26.806
+!MESSAGE Preparing classpath changed notification itemsharing.itemservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:07:26.816
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:07:26.848
+!MESSAGE classpath=193 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:07:26.858
+!MESSAGE executing callback sts4.classpath.BEfyaCWg itemsharing.itemservice false 193
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:07:26.888
+!MESSAGE executing callback sts4.classpath.BEfyaCWg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:07:26.898
+!MESSAGE executing callback sts4.classpath.arrALEqU itemsharing.itemservice false 193
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:07:26.908
+!MESSAGE executing callback sts4.classpath.arrALEqU FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-01-30 23:07:26.918
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.arrALEqU'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:07:27.538
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:08:10.598
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice[*]: {CHILDREN}
+				[Working copy] ItemServiceApplication.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/itemsharing.itemservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:08:10.878
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:08:49.094
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.client[+]: {}
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:08:49.354
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:10:26.122
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.client[*]: {CHILDREN}
+				UserFeignClient.java[+]: {}
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:10:26.541
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:10:26.569
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.client[*]: {CHILDREN}
+				[Working copy] UserFeignClient.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:15:08.472
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.client[*]: {CHILDREN}
+				[Working copy] UserFeignClient.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/itemsharing.itemservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-30 23:15:08.712
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:11:24.379
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:13:35.251
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT | RESOLVED CLASSPATH CHANGED}
+		C:\Users\prashantdada\.m2\repository\org\aspectj\aspectjweaver\1.9.2\aspectjweaver-1.9.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-jdbc\2.1.1.RELEASE\spring-boot-starter-jdbc-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-jdbc\5.1.3.RELEASE\spring-jdbc-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\transaction\javax.transaction-api\1.3\javax.transaction-api-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hibernate\hibernate-core\5.3.7.Final\hibernate-core-5.3.7.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\persistence\javax.persistence-api\2.2\javax.persistence-api-2.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\javassist\javassist\3.23.1-GA\javassist-3.23.1-GA.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\bytebuddy\byte-buddy\1.9.5\byte-buddy-1.9.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\jboss\jandex\2.0.5.Final\jandex-2.0.5.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\dom4j\dom4j\2.1.1\dom4j-2.1.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hibernate\common\hibernate-commons-annotations\5.0.4.Final\hibernate-commons-annotations-5.0.4.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\data\spring-data-jpa\2.1.3.RELEASE\spring-data-jpa-2.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\data\spring-data-commons\2.1.3.RELEASE\spring-data-commons-2.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-orm\5.1.3.RELEASE\spring-orm-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-tx\5.1.3.RELEASE\spring-tx-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-aspects\5.1.3.RELEASE\spring-aspects-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\tomcat\tomcat-jdbc\9.0.13\tomcat-jdbc-9.0.13.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\tomcat\tomcat-juli\9.0.13\tomcat-juli-9.0.13.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\mysql\mysql-connector-java\5.1.38\mysql-connector-java-5.1.38.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-security\2.0.0.RELEASE\spring-cloud-security-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-security\2.1.1.RELEASE\spring-boot-starter-security-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-config\5.1.2.RELEASE\spring-security-config-5.1.2.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-core\5.1.2.RELEASE\spring-security-core-5.1.2.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-web\5.1.2.RELEASE\spring-security-web-5.1.2.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\oauth\boot\spring-security-oauth2-autoconfigure\2.0.0.RELEASE\spring-security-oauth2-autoconfigure-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\oauth\spring-security-oauth2\2.2.1.RELEASE\spring-security-oauth2-2.2.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jackson\jackson-mapper-asl\1.9.13\jackson-mapper-asl-1.9.13.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jackson\jackson-core-asl\1.9.13\jackson-core-asl-1.9.13.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-jwt\1.0.9.RELEASE\spring-security-jwt-1.0.9.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.56\bcpkix-jdk15on-1.56.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.56\bcprov-jdk15on-1.56.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-config\2.0.0.RELEASE\spring-cloud-starter-config-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter\2.0.0.RELEASE\spring-cloud-starter-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-context\2.0.0.RELEASE\spring-cloud-context-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-rsa\1.0.5.RELEASE\spring-security-rsa-1.0.5.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-config-client\2.0.0.RELEASE\spring-cloud-config-client-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.7\jackson-databind-2.9.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.7\jackson-core-2.9.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-openfeign\2.0.0.RELEASE\spring-cloud-starter-openfeign-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-openfeign-core\2.0.0.RELEASE\spring-cloud-openfeign-core-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-ribbon\2.0.0.RELEASE\spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-commons\2.0.0.RELEASE\spring-cloud-commons-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-crypto\5.1.2.RELEASE\spring-security-crypto-5.1.2.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-core\9.5.1\feign-core-9.5.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-slf4j\9.5.1\feign-slf4j-9.5.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-hystrix\9.5.1\feign-hystrix-9.5.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\archaius\archaius-core\0.7.6\archaius-core-0.7.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\guava\guava\16.0\guava-16.0.jar[*]: {REMOVED FROM CLASSPATH}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-core\1.5.12\hystrix-core-1.5.12.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hdrhistogram\HdrHistogram\2.1.9\HdrHistogram-2.1.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-java8\9.5.1\feign-java8-9.5.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-ribbon\2.0.0.RELEASE\spring-cloud-starter-netflix-ribbon-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon\2.2.5\ribbon-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-transport\2.2.5\ribbon-transport-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty-contexts\0.4.9\rxnetty-contexts-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty-servo\0.4.9\rxnetty-servo-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty\0.4.9\rxnetty-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-codec-http\4.1.31.Final\netty-codec-http-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-codec\4.1.31.Final\netty-codec-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport-native-epoll\4.1.31.Final\netty-transport-native-epoll-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-common\4.1.31.Final\netty-common-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-buffer\4.1.31.Final\netty-buffer-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.31.Final\netty-transport-native-unix-common-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport\4.1.31.Final\netty-transport-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-resolver\4.1.31.Final\netty-resolver-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-core\2.2.5\ribbon-core-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-httpclient\2.2.5\ribbon-httpclient-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-commons-util\0.3.0\netflix-commons-util-0.3.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-loadbalancer\2.2.5\ribbon-loadbalancer-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-statistics\0.1.1\netflix-statistics-0.1.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxjava\1.3.8\rxjava-1.3.8.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-archaius\2.0.0.RELEASE\spring-cloud-starter-netflix-archaius-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-archaius\2.0.0.RELEASE\spring-cloud-netflix-archaius-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-configuration\commons-configuration\1.8\commons-configuration-1.8.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-eureka-client\2.0.0.RELEASE\spring-cloud-starter-netflix-eureka-client-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-core\2.0.0.RELEASE\spring-cloud-netflix-core-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-eureka-client\2.0.0.RELEASE\spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-client\1.9.2\eureka-client-1.9.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jettison\jettison\1.3.7\jettison-1.3.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-eventbus\0.3.0\netflix-eventbus-0.3.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-infix\0.3.0\netflix-infix-0.3.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-jxpath\commons-jxpath\1.3\commons-jxpath-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\joda-time\joda-time\2.10.1\joda-time-2.10.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\antlr\antlr-runtime\3.4\antlr-runtime-3.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\antlr\stringtemplate\3.2.1\stringtemplate-3.2.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\commons\commons-math\2.2\commons-math-2.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\ws\rs\jsr311-api\1.1.1\jsr311-api-1.1.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\servo\servo-core\0.12.21\servo-core-0.12.21.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\jersey-core\1.19.1\jersey-core-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\jersey-client\1.19.1\jersey-client-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\contribs\jersey-apache-client4\1.19.1\jersey-apache-client4-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\httpcomponents\httpclient\4.5.6\httpclient-4.5.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\httpcomponents\httpcore\4.4.10\httpcore-4.4.10.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\github\vlsi\compactmap\compactmap\1.2.1\compactmap-1.2.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\github\andrewoma\dexx\dexx-collections\0.2\dexx-collections-0.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-core\1.9.2\eureka-core-1.9.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\woodstox\woodstox-core-asl\4.4.1\woodstox-core-asl-4.4.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.4\stax2-api-3.1.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-eureka\2.2.5\ribbon-eureka-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\thoughtworks\xstream\xstream\1.4.10\xstream-1.4.10.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-test\2.1.1.RELEASE\spring-boot-starter-test-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-test\2.1.1.RELEASE\spring-boot-test-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-test-autoconfigure\2.1.1.RELEASE\spring-boot-test-autoconfigure-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\jayway\jsonpath\json-path\2.4.0\json-path-2.4.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\minidev\json-smart\2.3\json-smart-2.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\minidev\accessors-smart\1.2\accessors-smart-1.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\ow2\asm\asm\5.0.4\asm-5.0.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\junit\junit\4.12\junit-4.12.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\assertj\assertj-core\3.11.1\assertj-core-3.11.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\mockito\mockito-core\2.23.4\mockito-core-2.23.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\bytebuddy\byte-buddy-agent\1.9.5\byte-buddy-agent-1.9.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\objenesis\objenesis\2.6\objenesis-2.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\skyscreamer\jsonassert\1.5.0\jsonassert-1.5.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\vaadin\external\google\android-json\0.0.20131108.vaadin1\android-json-0.0.20131108.vaadin1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-test\5.1.3.RELEASE\spring-test-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\xmlunit\xmlunit-core\2.6.2\xmlunit-core-2.6.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-javanica\1.5.18\hystrix-javanica-1.5.18.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\com\google\guava\guava\15.0\guava-15.0.jar[+]: {}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:13:35.261
+!MESSAGE Preparing classpath changed notification itemsharing.itemservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:13:35.275
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:13:35.301
+!MESSAGE classpath=195 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:13:35.308
+!MESSAGE executing callback sts4.classpath.BEfyaCWg itemsharing.itemservice false 195
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:13:35.402
+!MESSAGE executing callback sts4.classpath.BEfyaCWg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:13:35.415
+!MESSAGE executing callback sts4.classpath.arrALEqU itemsharing.itemservice false 195
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:13:35.425
+!MESSAGE executing callback sts4.classpath.arrALEqU FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-01-31 23:13:35.436
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.arrALEqU'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:13:37.613
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:14:58.808
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN | RESOLVED CLASSPATH CHANGED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-javanica\1.5.18\hystrix-javanica-1.5.18.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\com\google\guava\guava\15.0\guava-15.0.jar[*]: {SOURCE ATTACHED}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:14:58.820
+!MESSAGE Preparing classpath changed notification itemsharing.itemservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:14:58.829
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:14:58.854
+!MESSAGE classpath=195 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:14:58.861
+!MESSAGE executing callback sts4.classpath.BEfyaCWg itemsharing.itemservice false 195
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:14:58.892
+!MESSAGE executing callback sts4.classpath.BEfyaCWg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:14:58.912
+!MESSAGE executing callback sts4.classpath.arrALEqU itemsharing.itemservice false 195
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:14:58.923
+!MESSAGE executing callback sts4.classpath.arrALEqU FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-01-31 23:14:58.930
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.arrALEqU'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:17:41.991
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/pom.xml)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:02.535
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT | RESOLVED CLASSPATH CHANGED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-ribbon\2.0.0.RELEASE\spring-cloud-netflix-ribbon-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-commons\2.0.0.RELEASE\spring-cloud-commons-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\security\spring-security-crypto\5.1.2.RELEASE\spring-security-crypto-5.1.2.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-core\9.5.1\feign-core-9.5.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-slf4j\9.5.1\feign-slf4j-9.5.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-hystrix\9.5.1\feign-hystrix-9.5.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\archaius\archaius-core\0.7.6\archaius-core-0.7.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\github\openfeign\feign-java8\9.5.1\feign-java8-9.5.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-ribbon\2.0.0.RELEASE\spring-cloud-starter-netflix-ribbon-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon\2.2.5\ribbon-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-transport\2.2.5\ribbon-transport-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty-contexts\0.4.9\rxnetty-contexts-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty-servo\0.4.9\rxnetty-servo-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxnetty\0.4.9\rxnetty-0.4.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-codec-http\4.1.31.Final\netty-codec-http-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-codec\4.1.31.Final\netty-codec-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport-native-epoll\4.1.31.Final\netty-transport-native-epoll-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-common\4.1.31.Final\netty-common-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-buffer\4.1.31.Final\netty-buffer-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.31.Final\netty-transport-native-unix-common-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-transport\4.1.31.Final\netty-transport-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\netty\netty-resolver\4.1.31.Final\netty-resolver-4.1.31.Final.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-core\2.2.5\ribbon-core-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-httpclient\2.2.5\ribbon-httpclient-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-collections\commons-collections\3.2.2\commons-collections-3.2.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-commons-util\0.3.0\netflix-commons-util-0.3.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-loadbalancer\2.2.5\ribbon-loadbalancer-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-statistics\0.1.1\netflix-statistics-0.1.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxjava\1.3.8\rxjava-1.3.8.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-archaius\2.0.0.RELEASE\spring-cloud-starter-netflix-archaius-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-archaius\2.0.0.RELEASE\spring-cloud-netflix-archaius-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-configuration\commons-configuration\1.8\commons-configuration-1.8.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-eureka-client\2.0.0.RELEASE\spring-cloud-starter-netflix-eureka-client-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-core\2.0.0.RELEASE\spring-cloud-netflix-core-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-netflix-eureka-client\2.0.0.RELEASE\spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-client\1.9.2\eureka-client-1.9.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\jettison\jettison\1.3.7\jettison-1.3.7.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-eventbus\0.3.0\netflix-eventbus-0.3.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\netflix-commons\netflix-infix\0.3.0\netflix-infix-0.3.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\commons-jxpath\commons-jxpath\1.3\commons-jxpath-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\joda-time\joda-time\2.10.1\joda-time-2.10.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\antlr\antlr-runtime\3.4\antlr-runtime-3.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\antlr\stringtemplate\3.2.1\stringtemplate-3.2.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\commons\commons-math\2.2\commons-math-2.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\ws\rs\jsr311-api\1.1.1\jsr311-api-1.1.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\servo\servo-core\0.12.21\servo-core-0.12.21.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\jersey-core\1.19.1\jersey-core-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\jersey-client\1.19.1\jersey-client-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\sun\jersey\contribs\jersey-apache-client4\1.19.1\jersey-apache-client4-1.19.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\httpcomponents\httpclient\4.5.6\httpclient-4.5.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\httpcomponents\httpcore\4.4.10\httpcore-4.4.10.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\inject\guice\4.1.0\guice-4.1.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\aopalliance\aopalliance\1.0\aopalliance-1.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\github\vlsi\compactmap\compactmap\1.2.1\compactmap-1.2.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\github\andrewoma\dexx\dexx-collections\0.2\dexx-collections-0.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\eureka\eureka-core\1.9.2\eureka-core-1.9.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\woodstox\woodstox-core-asl\4.4.1\woodstox-core-asl-4.4.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\javax\xml\stream\stax-api\1.0-2\stax-api-1.0-2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.4\stax2-api-3.1.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\ribbon\ribbon-eureka\2.2.5\ribbon-eureka-2.2.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\thoughtworks\xstream\xstream\1.4.10\xstream-1.4.10.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\xmlpull\xmlpull\1.1.3.1\xmlpull-1.1.3.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\xpp3\xpp3_min\1.1.4c\xpp3_min-1.1.4c.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-javanica\1.5.18\hystrix-javanica-1.5.18.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\ow2\asm\asm\5.0.4\asm-5.0.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-core\1.5.12\hystrix-core-1.5.12.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hdrhistogram\HdrHistogram\2.1.9\HdrHistogram-2.1.9.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\aspectj\aspectjweaver\1.9.2\aspectjweaver-1.9.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\google\guava\guava\15.0\guava-15.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-starter-test\2.1.1.RELEASE\spring-boot-starter-test-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-test\2.1.1.RELEASE\spring-boot-test-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\boot\spring-boot-test-autoconfigure\2.1.1.RELEASE\spring-boot-test-autoconfigure-2.1.1.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\jayway\jsonpath\json-path\2.4.0\json-path-2.4.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\minidev\json-smart\2.3\json-smart-2.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\minidev\accessors-smart\1.2\accessors-smart-1.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\junit\junit\4.12\junit-4.12.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\assertj\assertj-core\3.11.1\assertj-core-3.11.1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\mockito\mockito-core\2.23.4\mockito-core-2.23.4.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\net\bytebuddy\byte-buddy-agent\1.9.5\byte-buddy-agent-1.9.5.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\objenesis\objenesis\2.6\objenesis-2.6.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\skyscreamer\jsonassert\1.5.0\jsonassert-1.5.0.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\com\vaadin\external\google\android-json\0.0.20131108.vaadin1\android-json-0.0.20131108.vaadin1.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\spring-test\5.1.3.RELEASE\spring-test-5.1.3.RELEASE.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\xmlunit\xmlunit-core\2.6.2\xmlunit-core-2.6.2.jar[*]: {REORDERED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-hystrix\2.0.0.RELEASE\spring-cloud-starter-netflix-hystrix-2.0.0.RELEASE.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-serialization\1.5.12\hystrix-serialization-1.5.12.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\module\jackson-module-afterburner\2.9.7\jackson-module-afterburner-2.9.7.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-metrics-event-stream\1.5.12\hystrix-metrics-event-stream-1.5.12.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxjava-reactive-streams\1.2.1\rxjava-reactive-streams-1.2.1.jar[+]: {}
+		C:\Users\prashantdada\.m2\repository\org\reactivestreams\reactive-streams\1.0.2\reactive-streams-1.0.2.jar[+]: {}
+		ResourceDelta(/itemsharing.itemservice/target)[*]
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:02.692
+!MESSAGE Preparing classpath changed notification itemsharing.itemservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:02.692
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:02.723
+!MESSAGE classpath=201 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:02.723
+!MESSAGE executing callback sts4.classpath.BEfyaCWg itemsharing.itemservice false 201
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:02.754
+!MESSAGE executing callback sts4.classpath.BEfyaCWg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:02.770
+!MESSAGE executing callback sts4.classpath.arrALEqU itemsharing.itemservice false 201
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:02.770
+!MESSAGE executing callback sts4.classpath.arrALEqU FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-01-31 23:20:02.785
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.arrALEqU'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:04.651
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:39.806
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN | RESOLVED CLASSPATH CHANGED}
+		C:\Users\prashantdada\.m2\repository\org\springframework\cloud\spring-cloud-starter-netflix-hystrix\2.0.0.RELEASE\spring-cloud-starter-netflix-hystrix-2.0.0.RELEASE.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-serialization\1.5.12\hystrix-serialization-1.5.12.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\com\fasterxml\jackson\module\jackson-module-afterburner\2.9.7\jackson-module-afterburner-2.9.7.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\com\netflix\hystrix\hystrix-metrics-event-stream\1.5.12\hystrix-metrics-event-stream-1.5.12.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\io\reactivex\rxjava-reactive-streams\1.2.1\rxjava-reactive-streams-1.2.1.jar[*]: {SOURCE ATTACHED}
+		C:\Users\prashantdada\.m2\repository\org\reactivestreams\reactive-streams\1.0.2\reactive-streams-1.0.2.jar[*]: {SOURCE ATTACHED}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:39.822
+!MESSAGE Preparing classpath changed notification itemsharing.itemservice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:39.822
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:39.853
+!MESSAGE classpath=201 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:39.853
+!MESSAGE executing callback sts4.classpath.BEfyaCWg itemsharing.itemservice false 201
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:39.888
+!MESSAGE executing callback sts4.classpath.BEfyaCWg SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:39.903
+!MESSAGE executing callback sts4.classpath.arrALEqU itemsharing.itemservice false 201
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:20:39.920
+!MESSAGE executing callback sts4.classpath.arrALEqU FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-01-31 23:20:39.927
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.arrALEqU'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$Subscriptions$2.run(ReusableClasspathListenerHandler.java:179)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:22:59.678
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice[*]: {CHILDREN}
+				[Working copy] ItemServiceApplication.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/itemsharing.itemservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:22:59.883
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:23:13.020
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.serviceimpl[*]: {CHILDREN}
+				[Working copy] ItemServiceImpl.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:24:15.254
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.serviceimpl[*]: {CHILDREN}
+				[Working copy] UserServiceImpl.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:24:22.082
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.controller[*]: {CHILDREN}
+				[Working copy] ItemController.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:24:35.302
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.service[*]: {CHILDREN}
+				[Working copy] ItemService.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:24:36.600
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.itemservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.service[*]: {CHILDREN}
+				[Working copy] UserService.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:26:08.866
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing.userservice[*]: {CHILDREN}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.userservice.controller[*]: {CHILDREN}
+				[Working copy] UserController.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:27:01.035
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.service[*]: {CHILDREN}
+				[Working copy] ItemService.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/itemsharing.itemservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:27:01.285
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:27:14.691
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.serviceimpl[*]: {CHILDREN}
+				[Working copy] ItemServiceImpl.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/itemsharing.itemservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:27:14.885
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:28:31.160
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.serviceimpl[*]: {CHILDREN}
+				[Working copy] ItemServiceImpl.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/itemsharing.itemservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-01-31 23:28:31.300
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-02-04 23:27:56.135
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CHILDREN | CONTENT}
+		src/main/java[*]: {CHILDREN}
+			com.itemsharing.itemservice.serviceimpl[*]: {CHILDREN}
+				[Working copy] ItemServiceImpl.java[*]: {PRIMARY RESOURCE}
+		ResourceDelta(/itemsharing.itemservice/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-02-04 23:28:00.135
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/src)[*]
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-02-04 23:28:00.588
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.itemservice)[*]
+	itemsharing.itemservice[*]: {CONTENT}
+		ResourceDelta(/itemsharing.itemservice/target)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-02-04 23:29:05.857
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.configserver)[*]
+	itemsharing.configserver[*]: {CHILDREN | CONTENT}
+		src/main/resources[*]: {CONTENT}
+			ResourceDelta(/itemsharing.configserver/src/main/resources/application.yml)[*]
+		ResourceDelta(/itemsharing.configserver/src)[*]]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-02-04 23:29:09.157
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	itemsharing[*]: {CONTENT}
+		ResourceDelta(/itemsharing/itemsharing.configserver)[*]
+	itemsharing.configserver[*]: {CONTENT}
+		ResourceDelta(/itemsharing.configserver/target)[*]]

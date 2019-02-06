@@ -1,0 +1,58 @@
+package com.itemsharing.itemservice.controller;
+
+import java.io.IOException;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.itemsharing.itemservice.model.Item;
+import com.itemsharing.itemservice.service.ItemService;
+import org.springframework.web.bind.annotation.RequestParam;
+
+
+
+@RestController
+@RequestMapping("/v1/item")
+public class ItemController {
+
+	 @Autowired
+	 ItemService itemService;
+	
+	 @RequestMapping(method=RequestMethod.POST)
+	 public Item requestMethodName(@RequestBody Item item) {
+		return itemService.addItemByUser(item, "prashant9999");
+	}
+	 
+	@RequestMapping(value="/itemsByUser") 
+	public List<Item> getItemByUser(){
+		String username = "prashant9999";
+		return itemService.getItemsByUsername(username);
+	}
+	
+	@RequestMapping(value="/all")
+	public List<Item> getAllItems(){
+		return itemService.getAllItems();
+	}
+	
+	@RequestMapping(value="/{id}")
+	public Item getItemById(@PathVariable Long id) {
+		return itemService.getItemById(id);
+	}
+	
+	@RequestMapping(value="/{id}")
+	public Item updateItem(@PathVariable Long id,@RequestBody Item item) throws IOException {
+		item.setId(id);
+		return itemService.updateItem(item);
+	}
+	
+	@RequestMapping(value="/{id}", method=RequestMethod.DELETE)
+	public void requestMethodName(@PathVariable Long id) {
+		itemService.deleteItemById(id);
+	}
+	
+}
